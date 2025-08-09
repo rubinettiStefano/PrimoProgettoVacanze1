@@ -1,0 +1,20 @@
+Ecco la consegna per il primo progetto delle vacanze. 
+Dato che serve anche a fare da ripasso, vi ho messo nel codice parecchi commenti dove spiego cosa sono e a cosa servono le varie parti.
+
+L'obiettivo sarà, seguendo il modello che abbiamo visto con l'ultimo progetto fatto, creare un programma
+per gestire una azienda che produce e vende arredamento, chiamata ikeva.
+
+Abstract (in un progetto l'abstract è sostanzialmente la parte della documentazione che riassume le caratteristiche principali e le funzionalità che offre)
+Il software è pensato per essere usato dagli impiegati che si occupano della gestione del magazzino e dello showroom di questa azienda, permettendo
+loro di aggiungere e rimuovere prodotti, decidendo inoltre cosa è mostrabile nello showroom.
+
+Entità (ho già creato le classi, leggete li dentro la consegna per ognuna, partite da mobile e poi fate showroom)
+MOBILE
+SHOWROOM
+
+Abbiamo una sola classe di businesslogic, chiamata con molta fantasia showroomLogic, ho scritto le firme dei metodi con sopra la consegna
+
+La classe di avvio (executable) è già pronta, ma ho messo i case dello switch come commento, quando ne finite uno decommentatelo e provate se funziona
+prima di fare quello dopo nella businesslogic.
+
+come consegna aggiuntiva e facoltativa, potete provare a far gestire al programma non uno showroom ma tanti
